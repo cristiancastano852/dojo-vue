@@ -1,4 +1,5 @@
 app.component("character-display", {
+  
   template:
     /*html*/
     `<div class="character-image">
